@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-👋 Hey there! I’m Justin, currently working at Thanks Ben where I help build flexible employee benefits with a focus on mobile app development. When I’m not coding for work, you’ll probably find me tinkering with microcontrollers like ESP32 and Raspberry Pi, experimenting with Arduino projects and making all kinds of cool stuff. I love diving into hardware and seeing how I can bridge the gap between software and the physical world. If you’re into React Native/Expo or have an exciting project idea, feel free to reach out—I’m always up for collaborating on interesting apps!
+👋 Hey there! I’m Justin, currently working at [Thanks Ben](https://www.thanksben.com/) where I help build flexible employee benefits with a focus on mobile app development. When I’m not coding for work, you’ll probably find me tinkering with microcontrollers like ESP32 and Raspberry Pi, experimenting with Arduino projects and making all kinds of cool stuff. I love diving into hardware and seeing how I can bridge the gap between software and the physical world. If you’re into React Native/Expo or have an exciting project idea, feel free to reach out—I’m always up for collaborating on interesting apps!
 
 
 ## 🌐 Socials:
